@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
+global.owner = ['972522734920']
+global.premium = ['972522734920']
 global.ownernomer = '917025994178'
-global.ownername = '𝙰𝙱𝚄 𝚆𝙰 𝙼𝙳'
-global.botname = 'Abu-Md'
+global.ownername = 'DAVID WALKER'
+global.botname = 'Sk-Md'
 global.footer = 'jsl ABU.'
-global.ig = 'https://github.com/Afx-Abu'
+global.ig = 'https://github.com/Sk-Devil'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/Afx-Abu/ABU-MD'
+global.sc = 'https://github.com/Davide-3/SK-BOT'
 global.myweb = 'https://youtu.be/'
-global.packname = 'ABU Bot'
-global.author = 'JSL ABU'
+global.packname = 'SK Bot'
+global.author = 'JSL SK'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -60,7 +60,7 @@ global.mess = {
    potionawal: 1
 }
 
-global.ownernomer = process.env.OWNER_NUMBER || '917025994178'
+global.ownernomer = process.env.OWNER_NUMBER || '972522734920'
 global.packname = process.env.PACKNAME ||'ᴀʙᴜ-ᴍᴅ'
 global.author = process.env.AUTHOR ||'ᴊsʟ/ᴀʙᴜ'
 global.botname = process.env.BOT_NAME ||'ᴊsʟ/ᴀʙᴜ'
